@@ -1,8 +1,49 @@
-# 💫 About Me:
-🚀 I build websites & AI automation systems that help businesses generate leads and grow faster.
-🔥I'm currently working on Building a high-performance agency that combines website development + AI automation to help local businesses scale.<br>Right now, I’m focused on creating real client projects, lead generation systems, and automated workflows (n8n + WhatsApp + email) that can turn into a repeatable business machine.<br><br>🤝I want to collaborate with:<br><br>Local business owners who need websites or automation<br>Developers / AI builders working on automation tools<br>Marketing people who can bring leads<br>Basically, anyone who wants to build something practical, scalable, and revenue-driven<br><br>🆘 I'm looking for help with:<br>Getting high-ticket clients consistently<br>Building a strong brand presence (LinkedIn + website)<br>Improving my sales & closing skills<br>Scaling from freelancer mindset → agency owner mindset<br><br><br>📚 I'm currently learning:<br>AI Automation (n8n, workflows, APIs)<br>Advanced website building (modern UI, animations, premium feel)<br>Lead generation systems (Google Maps + outreach automation)<br>How to turn skills into a system that prints money<br><br>❓ Ask me about:<br>AI automation for businesses<br>Building websites that actually convert<br>How local businesses can grow online<br>Lead generation using automation<br>Turning ideas into real projects<br><br><br>⚡ Fun fact:<br><br>I don’t just learn — I build fast and execute immediately.<br>If I understand something today, I’ll try to turn it into a business by tomorrow.
+<h1 align="center">Hi 👋, I'm Rohit Ranjan</h1>
+<h3 align="center">I build Websites & AI Automation Systems that generate leads and grow businesses 🚀</h3>
 
+<p align="center">
+  <a href="https://wa.me/917050581284">💬 Hire Me on WhatsApp</a> •
+  <a href="mailto:rohitaipowered@gmail.com">📩 Email Me</a>
+</p>
+## 💼 My Work
 
+🔹 Clinic Website  
+https://clinics-psi.vercel.app/
+
+🔹 Smart Home UI  
+https://interactive-home-hub-swn8.vercel.app/
+
+🔹 Tax Solution Website  
+https://aura-tax-solutions.vercel.app/
+## 💰 Services I Offer
+
+✔ Business Website Development  
+✔ Landing Pages (Lead Generation)  
+✔ AI Automation Systems  
+✔ WhatsApp Auto Reply & Follow-ups  
+✔ Lead Generation Setup  
+
+📩 DM me to get started
+## 📞 Let's Work Together
+
+💬 WhatsApp: https://wa.me/917050581284  
+📧 Email: rohitaipowered@gmail.com  
+
+🚀 I help businesses grow with websites & automation
+
+## 🚀 About Me
+I build websites & AI automation systems that help businesses generate leads and grow faster.
+
+⚡ Currently building a high-performance agency  
+⚡ Focused on real client projects & automation systems  
+⚡ Turning ideas into scalable business machines
+
+## 💡 Why Choose Me?
+
+✔ Fast execution (idea → live project quickly)  
+✔ Business-focused (not just coding)  
+✔ Automation expert (save time + increase revenue)  
+✔ Clean, modern & high-converting designs  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ rohit-sharma-16321438a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:doublesmartrohit@gmail.com) 
 
